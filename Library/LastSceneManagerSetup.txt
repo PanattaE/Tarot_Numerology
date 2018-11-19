@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/KYPS_Done.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 6e295ad398d5f4840b73833639ce655c
+timeCreated: 1521082536
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Card: {fileID: 1937912998155962, guid: c6a24d836882d8b498bff686c28b2672, type: 2}
+  - PastReading: {fileID: 1073338155729404, guid: 9f96ec4c17e4fdd46bf18e0f635a5374,
+      type: 2}
+  - PresentReading: {fileID: 1416286665223542, guid: f81ba0c3a3f11d64ba2a391e3da2a2b4,
+      type: 2}
+  - FutureReading: {fileID: 1530597048452738, guid: d71c8e0404eeb454e9ca8092920965f1,
+      type: 2}
+  - RNG: {instanceID: 0}
+  - Past: {instanceID: 0}
+  - Present: {instanceID: 0}
+  - Future: {instanceID: 0}
+  - TheCut: {instanceID: 0}
+  - TarotReads: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
